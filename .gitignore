@@ -25,3 +25,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+nodejs_dc.log*
+nodejs_restclient.log*
+resourceRegistry.log*
